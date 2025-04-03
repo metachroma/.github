@@ -1,3 +1,11 @@
+---
+name: Client Approval Log
+about: Log client approval for design changes
+title: '[APPROVAL] <title>'
+labels: Approval
+assignees: ''
+---
+
 # Client approval log
 
 ## Package
