@@ -13,5 +13,3 @@
 - [ ] Icons
 - [ ] Images
 - [ ] Layout
-
-##
