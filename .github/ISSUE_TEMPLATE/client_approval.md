@@ -4,6 +4,7 @@ about: Log client approval for design changes
 title: '[APPROVAL] <title>'
 labels: Approval
 assignees: ''
+projects: ['metachroma/1']
 ---
 
 # Client approval log
