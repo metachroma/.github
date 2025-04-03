@@ -21,3 +21,12 @@ assignees: ''
 - [ ] Icons
 - [ ] Images
 - [ ] Layout
+
+## Content
+
+- [ ] Text
+- [ ] Images
+- [ ] Videos
+- [ ] Links
+- [ ] Contact
+- [ ] Other
